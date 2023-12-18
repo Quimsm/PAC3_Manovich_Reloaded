@@ -12,7 +12,7 @@ Vivim en una era de transformació tecnològica accelerada, on les fronteres ent
 ## WeChat: Una Superapp Multifuncional
 
 WeChat, en les seves humils arrels com a aplicació de missatgeria, ha experimentat una evolució extraordinària. La seva metamorfosi cap a una "superapp" és un exemple paradigmàtic d'hibridació digital. Integrant serveis com pagaments mòbils, compres en línia, xarxes socials i més, WeChat ha creat una plataforma integral que redefineix la interconnectivitat de les nostres vides. Aquesta superapp no només simplifica les transaccions diàries dels usuaris, sinó que també reflecteix la convergència de múltiples serveis dins d'un únic ecosistema digital.
-| ![Logo Wechat](https://example.com/cat1.jpg](https://assets.mofoprod.net/network/images/wechat.original.jpg). | ![Wechat Payment](https://example.com/cat2.jpg](https://nuvei.com/wp-content/uploads/2021/02/wechat-1.png). |
+| ![Logo Wechat](https://assets.mofoprod.net/network/images/wechat.original.jpg] | ![Wechat Payment](https://nuvei.com/wp-content/uploads/2021/02/wechat-1.png] |
 |--------------------------------------------|--------------------------------------------|
 
 ## Realitat Augmentada (RA) en l'Educació: Una Perspectiva Immersiva
