@@ -12,8 +12,9 @@ Vivim en una era de transformació tecnològica accelerada, on les fronteres ent
 ## WeChat: Una Superapp Multifuncional
 
 WeChat, en les seves humils arrels com a aplicació de missatgeria, ha experimentat una evolució extraordinària. La seva metamorfosi cap a una "superapp" és un exemple paradigmàtic d'hibridació digital. Integrant serveis com pagaments mòbils, compres en línia, xarxes socials i més, WeChat ha creat una plataforma integral que redefineix la interconnectivitat de les nostres vides. Aquesta superapp no només simplifica les transaccions diàries dels usuaris, sinó que també reflecteix la convergència de múltiples serveis dins d'un únic ecosistema digital.
+
 ![Logo Wechat](https://assets.mofoprod.net/network/images/wechat.original.jpg)
-> Logo de Wechat i de Wechat Payment extretes de: https://foundation.mozilla.org/es/privacynotincluded/wechat/
+> Logo de Wechat extret de: https://foundation.mozilla.org/es/privacynotincluded/wechat/
 
 
 ## Realitat Augmentada (RA) en l'Educació: Una Perspectiva Immersiva
