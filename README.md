@@ -15,6 +15,18 @@ WeChat, en les seves humils arrels com a aplicació de missatgeria, ha experimen
 
 ![Logo Wechat](https://assets.mofoprod.net/network/images/wechat.original.jpg)
 > Logo de Wechat extret de: https://foundation.mozilla.org/es/privacynotincluded/wechat/
+<details>
+### Contextualització
+WeChat, inicialment una aplicació de missatgeria, ha evolucionat fins a convertir-se en una "superapp" que incorpora funcionalitats diverses com pagaments mòbils, compres en línia, serveis de taxi i xarxes socials. Aquesta hibridació ha creat una plataforma integral que redefineix la manera com els usuaris xinesos gestionen les seves activitats diàries.
+
+### Anàlisi
+L'èxit de WeChat es basa en la integració d'una àmplia gamma de serveis en una sola plataforma. Des de les interaccions socials fins a la gestió financera, WeChat ofereix una solució tot en un que simplifica la vida dels usuaris i els ofereix una experiència completa a través d'una sola aplicació.
+
+### Exemples concrets (Wechat Payment)
+WeChat Pay permet als usuaris realitzar pagaments quotidians, des de factures fins a compres en línia, creant una experiència de consum fluida. Això demostra com WeChat ha hibridat amb èxit la comunicació i els serveis financers en una única plataforma.
+![Wechat Payment](https://nuvei.com/wp-content/uploads/2021/02/wechat-1.png)
+> Logo de Wechat Payment extret de: https://nuvei.com/es/apm/wechat_pay/
+</details>
 
 
 
