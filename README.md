@@ -70,6 +70,13 @@ A mesura que la tecnologia continua avançant, la RA representa només el comen�
 
 En resum, WeChat i la RA són dues forces transformadores que perfilen un futur integrat, on la tecnologia no només facilita les nostres vides sinó que també enriqueix les nostres experiències educatives. Mentre que WeChat simplifica la gestió diària amb la seva diversitat de serveis integrats, la RA transforma l'aprenentatge en una jornada immersiva i estimulant. A mesura que aquestes tecnologies evolucionen, col·laboraràs per configurar un futur on la integració digital serà la norma, connectant-nos d'una manera mai abans vista i donant forma a les pròximes generacions amb noves perspectives i oportunitats.
 
+## Bibliografia i Webgrafia
+
+- Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
+- https://realidadenaumento.es/realidad-aumentada-en-educacion/
+- https://nuvei.com/es/apm/wechat_pay/
+- https://www.xataka.com/aplicaciones/secreto-exito-wechat-china-app-que-permite-pedir-divorcio-a-abonar-facturas
+- https://www.academia.edu/2800625/Comprender_los_medios_h%C3%ADbridos
 
 
 
