@@ -15,7 +15,9 @@ WeChat, en les seves humils arrels com a aplicació de missatgeria, ha experimen
 
 ![Logo Wechat](https://assets.mofoprod.net/network/images/wechat.original.jpg)
 > Logo de Wechat extret de: https://foundation.mozilla.org/es/privacynotincluded/wechat/
+
 <details>
+  
 ### Contextualització
 WeChat, inicialment una aplicació de missatgeria, ha evolucionat fins a convertir-se en una "superapp" que incorpora funcionalitats diverses com pagaments mòbils, compres en línia, serveis de taxi i xarxes socials. Aquesta hibridació ha creat una plataforma integral que redefineix la manera com els usuaris xinesos gestionen les seves activitats diàries.
 
@@ -30,10 +32,38 @@ WeChat Pay permet als usuaris realitzar pagaments quotidians, des de factures fi
 
 
 
-
 ## Realitat Augmentada (RA) en l'Educació: Una Perspectiva Immersiva
 
 La RA en l'educació representa una hibridació entre el món físic i digital. Mitjançant l'ús de dispositius com tauletes i aplicacions especialitzades, els estudiants poden explorar continguts educatius amb elements 3D i animacions sobreposades al món real. Aquesta fusió proporciona una perspectiva única que va més enllà de les limitacions dels materials educatius tradicionals, creant una experiència d'aprenentatge més immersiva.
+
+
+# La Realitat Augmentada (RA): Un Horitzó Revolucionari en l'Educació
+
+## Introducció
+
+La Realitat Augmentada (RA) emergeix com una força disruptiva en l'àmbit de l'educació, oferint una perspectiva revolucionària sobre com els estudiants assimilen i comprenen la informació. Aquest assaig explora les diverses dimensions de la RA i com aquesta tecnologia està transformant l'experiència educativa en una jornada cap a la innovació i la participació.
+
+![RA en una classe](https://realidadenaumento.es/wp-content/uploads/2021/12/RA-en-educacion.png)
+>Imatge d'una classe on s'esta utilitzant la RA. Imatge extreta: https://realidadenaumento.es/realidad-aumentada-en-educacion/
+<details>
+  
+## Les Bases de la Realitat Augmentada
+
+La RA és una tecnologia que superposa elements virtuals al món real, mitjançant l'ús de dispositius com ara tauletes, telèfons intel·ligents o ulleres especialitzades. En l'àmbit educatiu, aquesta superposició crea una experiència visualment rica que pot anar des de models tridimensionals fins a informació addicional relacionada amb objectes físics, oferint una perspectiva pràctica i immersiva.
+
+## Transformant la Forma d'Aprendre
+
+La principal força de la RA en l'educació rau en la seva capacitat per transformar la manera com els estudiants assimilen informació. En lloc de limitar-se als llibres de text estàtics, la RA permet la creació d'entorns interactius i dinàmics. Imagina aprendre sobre l'anatomia humana amb models virtuals que es poden explorar en 3D o explorar la història antiga amb reconstruccions virtuals d'èpoques passades. Aquesta interactivitat fomenta l'engagement i la comprensió més profunda dels conceptes.
+
+## Desenvolupant les Habilitats del Ségle XXI
+
+La RA no només millora el procés d'aprenentatge, sinó que també contribueix al desenvolupament de les habilitats essencials per a l'èxit en el ségle XXI. Mitjançant la col·laboració en entorns de RA, els estudiants poden millorar habilitats com la resolució de problemes, la presa de decisions i la comunicació efectiva. Aquesta preparació per a la vida real és un aspecte crucial de la implementació de la RA en l'educació.
+
+## El Futur de l'Educació Augmentat
+
+A mesura que la tecnologia continua avançant, la RA representa només el començament d'una nova era educativa. Les possibilitats són infinites, des de visites virtuals a llocs històrics fins a simulacions pràctiques d'experiments científics. Amb la RA, l'educació es converteix en una experiència dinàmica i personalitzada, estenent els límits del que és possible en l'aprenentatge.
+</details>
+
 
 ## Comparació i Conclusió
 
