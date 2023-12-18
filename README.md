@@ -45,6 +45,7 @@ La Realitat Augmentada (RA) emergeix com una força disruptiva en l'àmbit de l'
 
 ![RA en una classe](https://realidadenaumento.es/wp-content/uploads/2021/12/RA-en-educacion.png)
 >Imatge d'una classe on s'esta utilitzant la RA. Imatge extreta: https://realidadenaumento.es/realidad-aumentada-en-educacion/
+
 <details>
   
 ## Les Bases de la Realitat Augmentada
