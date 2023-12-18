@@ -37,7 +37,7 @@ WeChat Pay permet als usuaris realitzar pagaments quotidians, des de factures fi
 La RA en l'educació representa una hibridació entre el món físic i digital. Mitjançant l'ús de dispositius com tauletes i aplicacions especialitzades, els estudiants poden explorar continguts educatius amb elements 3D i animacions sobreposades al món real. Aquesta fusió proporciona una perspectiva única que va més enllà de les limitacions dels materials educatius tradicionals, creant una experiència d'aprenentatge més immersiva.
 
 
-# La Realitat Augmentada (RA): Un Horitzó Revolucionari en l'Educació
+## La Realitat Augmentada (RA): Un Horitzó Revolucionari en l'Educació
 
 ## Introducció
 
